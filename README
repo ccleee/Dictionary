@@ -1,0 +1,5 @@
+Steps to run:
+1. make
+2. ./server in one terminal
+3. ./client in other terminals
+Then you can query words in client-side.
